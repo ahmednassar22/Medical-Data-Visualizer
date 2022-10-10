@@ -17,4 +17,4 @@ Use the data to complete the following tasks in medical_data_visualizer.py:
       <li>weight is less than the 2.5th percentile
       <li>weight is more than the 97.5th percentile</ul>
   
-<li>Create a correlation matrix using the dataset. Plot the correlation matrix using seaborn's heatmap(). Mask the upper triangle. The chart should look like examples/Figure_2.png.<\li>
+<li>Create a correlation matrix using the dataset. Plot the correlation matrix using seaborn's heatmap(). Mask the upper triangle. The chart should look like examples/Figure_2.png.
