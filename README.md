@@ -6,6 +6,6 @@ Create a chart similar to examples/Figure_1.png, where we show the counts of goo
 Use the data to complete the following tasks in medical_data_visualizer.py:
 
 <lis>
-  hh
+  hh\n
   jj
-  <\lis>
+ <\lis>
